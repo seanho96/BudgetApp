@@ -1,4 +1,4 @@
-#Budget App
+# Budget App
 
 A simple budgeting app that allows the user to add/remove income and expenses.
 
