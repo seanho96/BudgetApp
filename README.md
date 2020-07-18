@@ -8,3 +8,5 @@ Some features of this app:
 * Display percentage of expense over income
 * Display a simple infographic of overall budget
 * Local storage to allow data to persist
+
+![BudgetApp](https://user-images.githubusercontent.com/67132580/87850504-55475d00-c923-11ea-9b75-169f44e24d14.gif)
