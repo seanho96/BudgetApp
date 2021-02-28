@@ -1,6 +1,10 @@
 # Budget App
 
-A simple budgeting app that allows the user to add/remove income and expenses.
+Try it out [here](https://seanho96.github.io/budgetapp)
+
+---
+
+A simple budgeting app that allows the user to track their income and expenses.
 
 Some features of this app:
 * Add/remove individual components
